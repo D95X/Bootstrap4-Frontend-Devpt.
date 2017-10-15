@@ -7,5 +7,3 @@ npm install
   
 then:
 npm start
-  
-Screenshots
